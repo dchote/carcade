@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import serial
 picade = serial.Serial('/dev/ttyACM0',9600,timeout=1)
 
