@@ -1,7 +1,11 @@
 #!/usr/bin/env python
 
 import serial
+import time
+
 picade = serial.Serial('/dev/ttyACM0',9600,timeout=1)
+
+time.sleep(30)
 
 picade.write('l')
 
