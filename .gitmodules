@@ -1,3 +1,3 @@
-[submodule "cardade-firmware"]
-	path = cardade-firmware
-	url = https://github.com/dchote/cardade-firmware.git
+[submodule "carcade-firmware"]
+	path = carcade-firmware
+	url = https://github.com/dchote/carcade-firmware.git
