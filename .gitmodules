@@ -1,0 +1,3 @@
+[submodule "cardade-firmware"]
+	path = cardade-firmware
+	url = https://github.com/dchote/cardade-firmware.git
