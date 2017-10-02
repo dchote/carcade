@@ -1,0 +1,9 @@
+[Unit]
+Description=Tap to click service for the touch screen
+
+[Service]
+ExecStart=-/usr/local/bin/tap_to_click.py
+Type=forking
+
+[Install]
+WantedBy=multi-user.target
