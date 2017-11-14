@@ -1,5 +1,6 @@
-# carcade
-Desktop car arcade machine.
+# Dirt Rally car-cade
+![assembled](enclosure/photos/IMG_3182.jpg "Assembled carcade")
+Desktop car arcade machine running SteamOS. 
 
 I am currently working on the content for this project and will publish a HOWTO guide as well as all of the 3d models for the build.
 
@@ -14,3 +15,6 @@ I am currently working on the content for this project and will publish a HOWTO 
 * 10k potentiometers
 * Buttons
 * 3D printed parts
+
+## Operating System
+* [SteamOS](http://store.steampowered.com/steamos/buildyourown)
