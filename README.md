@@ -1,7 +1,7 @@
 # carcade
 Desktop car arcade machine.
 
-This is a work in progress repo for my carcade project.
+I am currently working on the content for this project and will publish a HOWTO guide as well as all of the 3d models for the build.
 
 
 ## Hardware
