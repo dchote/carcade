@@ -17,4 +17,4 @@ I am currently working on the content for this project and will publish a HOWTO 
 * 3D printed parts
 
 ## Operating System
-[SteamOS](http://store.steampowered.com/steamos/buildyourown)
+* [SteamOS](http://store.steampowered.com/steamos/buildyourown)
