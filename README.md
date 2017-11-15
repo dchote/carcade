@@ -6,6 +6,7 @@ I am currently working on the content for this project and will publish a HOWTO 
 
 All of the models to print your own can be found in enclosure/stl.
 
+You can read my blog post about the car-cade here: http://projectable.me/my-dirt-rally-tabletop-car-cade-game/
 
 ## Hardware needed
 * Asus H110S2 motherboard
